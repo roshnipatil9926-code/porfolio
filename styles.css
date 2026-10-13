@@ -7,7 +7,9 @@
   --green: #d9f36a;
   --coral: #f2795b;
   --mono: 'DM Mono', 'Courier New', monospace;
-  :root {
+}
+
+:root {
     color-scheme: dark;
     --night: #101918;
     --panel: #192321;
